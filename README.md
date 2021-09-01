@@ -1,5 +1,5 @@
 # BDA594-JingfeiZhang
-##web exercise
+## web exercise
 
 1. First Name: Jingfei \
    Last Name: Zhang :upside_down_face:
